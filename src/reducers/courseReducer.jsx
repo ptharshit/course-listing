@@ -1,4 +1,4 @@
-// src/reducers/courseReducer.js
+
 const initialState = {
     courses: []
   };

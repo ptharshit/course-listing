@@ -1,4 +1,4 @@
-// src/actions/courseActions.js
+
 import { fetchCourses } from '../api';
 
 export const fetchCoursesSuccess = courses => ({
